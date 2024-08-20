@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "45068891-26043dcb03fc174ed26196f08";
+const API_KEY = "add your api key here";
 const apiURL = `https://pixabay.com/api/?key=${API_KEY}`;
 const formatUrl = (params) => {
   // {q(query) , page , order , category}
